@@ -1,5 +1,4 @@
 <?php
-echo "Nguyen Cao Thi";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +6,7 @@ echo "Nguyen Cao Thi";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Ngôi nhà hạnh phúc</title>
 </head>
 <body>
     
