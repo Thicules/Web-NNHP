@@ -8,6 +8,6 @@
     </head>
     <body>
         <p>Nguyen Cao Thi</p>
+        <?php include "footer.html";?>
     </body>
 </html>
-<?php include 'footer.html';?>
